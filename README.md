@@ -1,14 +1,11 @@
-## Getting Started
+## PROJECT ROULLETTE
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+dans le cadre des mini projets universitaire
+j'ai crée un mini jeu de roulette, dans le jeu on doit
 
-## Folder Structure
+- insérer un jetons
+- Actionner la manette (affichage du rouleaux : x - x - x - x)
+- reinsérer un jeton
+- recharger quand y'a plus de jetons
+- jouer aprés chaque insertion
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
